@@ -1,4 +1,4 @@
-# D3-Challenge
+# Obesity, Smoking, Healthcare, Poverty, Age, and Income in U.S. States
 
 I used gitbash to create a local server to host my data.csv file, and then linked to the url of that server in the app.js file.
 I made variables for the width and height of the graph, as well as for the margins around the graph and the radii of the circles in the graph.
