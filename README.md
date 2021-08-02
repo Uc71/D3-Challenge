@@ -1,4 +1,4 @@
-# Obesity, Smoking, Healthcare, Poverty, Age, and Income in U.S. States
+# Links Between Health and Personal Finances in U.S. States
 
 To use this project, clone this repository to your computer and click the .html file.
 
